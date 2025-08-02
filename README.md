@@ -25,7 +25,7 @@ A simple web-based Tic-Tac-Toe game built with HTML, CSS, and JavaScript. Challe
 
 
 ---
-✅ How to Play
+# ✅ How to Play
 - Player X goes first.
 - Take turns clicking on the squares.
 - First player to align 3 of their marks (horizontal, vertical, or diagonal) wins.
@@ -33,7 +33,7 @@ A simple web-based Tic-Tac-Toe game built with HTML, CSS, and JavaScript. Challe
 
 ---
 
-📌 Future Improvements
+# 📌 Future Improvements
 - Add single-player mode (with AI)
 - Sound effects
 - Score tracking
@@ -41,9 +41,9 @@ A simple web-based Tic-Tac-Toe game built with HTML, CSS, and JavaScript. Challe
 
 ---
 
-🧑‍💻 Author: @Drishay
+# 🧑‍💻 Author: @Drishay
 
 ---
 
-📝 License
+# 📝 License
 This project is open source and available under the MIT License.
