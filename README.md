@@ -22,15 +22,7 @@ A simple web-based Tic-Tac-Toe game built with HTML, CSS, and JavaScript. Challe
 - 🔄 Reset game functionality
 - 🎉 Highlight winning combination (optional enhancement)
 
----
 
-
-## 📁 Project Structure
-
-tic-tac-toe/
-├── index.html
-├── style.css
-└── script.js
 
 ---
 ✅ How to Play
