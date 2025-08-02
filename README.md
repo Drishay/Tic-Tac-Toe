@@ -45,5 +45,5 @@ A simple web-based Tic-Tac-Toe game built with HTML, CSS, and JavaScript. Challe
 
 ---
 
-📝 License
+📝 License:
 This project is open source and available under the MIT License.
