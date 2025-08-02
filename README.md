@@ -32,6 +32,7 @@ tic-tac-toe/
 ├── style.css
 └── script.js
 
+---
 ✅ How to Play
 Player X goes first.
 
@@ -40,6 +41,8 @@ Take turns clicking on the squares.
 First player to align 3 of their marks (horizontal, vertical, or diagonal) wins.
 
 If all squares are filled and no winner, it’s a draw!
+
+---
 
 📌 Future Improvements
 Add single-player mode (with AI)
@@ -50,9 +53,11 @@ Score tracking
 
 Dark mode toggle
 
-🧑‍💻 Author
-Drishay
-[GitHub](https://github.com/Drishay)
+---
+
+🧑‍💻 Author: @Drishay
+
+---
 
 📝 License
 This project is open source and available under the MIT License.
