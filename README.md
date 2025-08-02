@@ -2,7 +2,7 @@
 
 A simple web-based Tic-Tac-Toe game built with HTML, CSS, and JavaScript. Challenge your friends or play solo in this classic game of strategy and fun!
 
-## 🎮 [Demo](https://drishay.github.io/Tic-Tac-Toe/)
+## 🎮 [Live Demo](https://drishay.github.io/Tic-Tac-Toe/)
 
 ---
 
