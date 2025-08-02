@@ -34,24 +34,18 @@ tic-tac-toe/
 
 ---
 ✅ How to Play
-Player X goes first.
-
-Take turns clicking on the squares.
-
-First player to align 3 of their marks (horizontal, vertical, or diagonal) wins.
-
-If all squares are filled and no winner, it’s a draw!
+- Player X goes first.
+- Take turns clicking on the squares.
+- First player to align 3 of their marks (horizontal, vertical, or diagonal) wins.
+- If all squares are filled and no winner, it’s a draw!
 
 ---
 
 📌 Future Improvements
-Add single-player mode (with AI)
-
-Sound effects
-
-Score tracking
-
-Dark mode toggle
+- Add single-player mode (with AI)
+- Sound effects
+- Score tracking
+- Dark mode toggle
 
 ---
 
